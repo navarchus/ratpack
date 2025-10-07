@@ -6,7 +6,7 @@ hash = "582faf40d873e4261d0a0b9b4cf3986ec65aedba037a9a8805a661e11a351645"
 
 [[files]]
 file = "config/default-hotkeys.json"
-hash = "cfb51527136b45aac33eabd02a312bc3c587486d0ae9e0aa53f77e85cc9bb814"
+hash = "0e9388a71bd064280db873489c33c8cd0eb2b24dae4d1faf0504ace5fd4ca00e"
 
 [[files]]
 file = "mods/accessories.pw.toml"

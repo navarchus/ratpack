@@ -5,6 +5,21 @@
     "key": "key.keyboard.unknown"
   },
   {
+    "comment": "artifacts.key.helium_flamingo.activate",
+    "translation": "Activate Helium Flamingo",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "artifacts.key.night_vision_goggles.toggle",
+    "translation": "Toggle Night Vision Goggles",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "artifacts.key.universal_attractor.toggle",
+    "translation": "Toggle Universal Attractor",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "create.keyinfo.ponder",
     "translation": "Ponder",
     "key": "key.keyboard.w"
@@ -205,6 +220,16 @@
     "key": "key.keyboard.unknown"
   },
   {
+    "comment": "key.ad_astra.open_radio",
+    "translation": "Open radio",
+    "key": "key.keyboard.period"
+  },
+  {
+    "comment": "key.ad_astra.toggle_suit_flight",
+    "translation": "Toggle Suit Flight",
+    "key": "key.keyboard.v"
+  },
+  {
     "comment": "key.advancements",
     "translation": "Advancements",
     "key": "key.keyboard.l"
@@ -257,7 +282,7 @@
   {
     "comment": "key.aether.invisibility_toggle.desc",
     "translation": "Toggle Invisibility",
-    "key": "key.keyboard.v"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.aether.open_accessories.desc",
@@ -407,7 +432,7 @@
   {
     "comment": "key.extraalchemy.toggle_extra_inv_rings",
     "translation": "Toggle rings equipped Bauble-like inventories",
-    "key": "key.keyboard.y"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.forward",
@@ -667,6 +692,11 @@
   {
     "comment": "key.toggleVisualItemContents",
     "translation": "Toggle Visual Item Contents",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.toms_storage.open_terminal",
+    "translation": "[Tom\u0027s Simple Storage] Open Terminal",
     "key": "key.keyboard.unknown"
   },
   {
