@@ -1,0 +1,1 @@
+uses https://packwiz.infra.link/ to make a modpack for custom mc server

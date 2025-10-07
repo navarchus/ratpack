@@ -1,0 +1,13 @@
+name = "Packages"
+filename = "packages-1.20.1-fabric-2025.09.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/qnD3Y1B1/packages-1.20.1-fabric-2025.09.12.jar"
+hash-format = "sha512"
+hash = "83b46cfbde478c89c180a8511e558031eb61112e34bdae3bbad57bab5e7802607be9547fc9d04b320ec907f142a71f874e85231e4ab343adf11032bd1f046291"
+
+[update]
+[update.modrinth]
+mod-id = "10DZYVis"
+version = "qnD3Y1B1"
