@@ -510,11 +510,6 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
-file = "mods/nomoreglowingpots.pw.toml"
-hash = "08c70176ec22df188fc188c8d41d1c90ac9a3699b701a787a4d91c42156ef167"
-metafile = true
-
-[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "f404b8f2227c496972da6647710a5691acbbd0f15e1951fc7b225970bb1b4da2"
 metafile = true
