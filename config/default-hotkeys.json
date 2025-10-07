@@ -82,7 +82,7 @@
   {
     "comment": "gui.xaero_new_waypoint",
     "translation": "New Waypoint",
-    "key": "key.keyboard.b"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_open_map",

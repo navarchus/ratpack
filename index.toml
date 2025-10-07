@@ -6,7 +6,7 @@ hash = "582faf40d873e4261d0a0b9b4cf3986ec65aedba037a9a8805a661e11a351645"
 
 [[files]]
 file = "config/default-hotkeys.json"
-hash = "cf43cd55757c95a7f4a05bf2131a1216553c31eb43cbfeb1ed94b4f5faa6f1e3"
+hash = "cfb51527136b45aac33eabd02a312bc3c587486d0ae9e0aa53f77e85cc9bb814"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -657,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "6054f41427006d33365bf20810e5c6ad7e7e3019ece736b39b0c45ddf438cd4e"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
