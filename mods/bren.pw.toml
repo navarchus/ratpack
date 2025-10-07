@@ -1,0 +1,13 @@
+name = "Bren"
+filename = "bren-0.4.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FJEfFMqn/versions/PgcCBAhs/bren-0.4.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "521e4956ce82096f74aa5960a06cad683ec9d05ebff3687d1659aa4bdb2f9aad937589ba60afefd6702dac6b8b5b69f80ab3dad9a75f420cb9dc9f01dc427a3d"
+
+[update]
+[update.modrinth]
+mod-id = "FJEfFMqn"
+version = "PgcCBAhs"
