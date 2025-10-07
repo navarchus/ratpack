@@ -1,0 +1,762 @@
+[
+  {
+    "comment": "accessories.key.open_accessories_screen",
+    "translation": "Open Accessories Screen",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "create.keyinfo.ponder",
+    "translation": "Ponder",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "create.keyinfo.toolbelt",
+    "translation": "Access Nearby Toolboxes",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "create.keyinfo.toolmenu",
+    "translation": "Focus Schematic Overlay",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "figura.config.action_wheel_button",
+    "translation": "Action Wheel Button",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "figura.config.panic_button",
+    "translation": "Panic Button",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "figura.config.popup_button",
+    "translation": "Popup Menu",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "figura.config.reload_button",
+    "translation": "Reload Avatar",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "figura.config.wardrobe_button",
+    "translation": "Wardrobe Button",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_alternative_list_players",
+    "translation": "\"List Players\" Alternative",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_display_all_sets",
+    "translation": "Toggle All WP Sets Render",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_enlarge_map",
+    "translation": "Enlarge Minimap",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "gui.xaero_instant_waypoint",
+    "translation": "Quick Waypoint",
+    "key": "key.keyboard.keypad.add"
+  },
+  {
+    "comment": "gui.xaero_map_zoom_in",
+    "translation": "Zoom In (alternative)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_map_zoom_out",
+    "translation": "Zoom Out (alternative)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_minimap_settings",
+    "translation": "Minimap Settings",
+    "key": "key.keyboard.y"
+  },
+  {
+    "comment": "gui.xaero_new_waypoint",
+    "translation": "New Waypoint",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "gui.xaero_open_map",
+    "translation": "Open World Map",
+    "key": "key.keyboard.m"
+  },
+  {
+    "comment": "gui.xaero_open_settings",
+    "translation": "Open Settings",
+    "key": "key.keyboard.right.bracket"
+  },
+  {
+    "comment": "gui.xaero_quick_confirm",
+    "translation": "Quick Manual Confirmation",
+    "key": "key.keyboard.right.shift"
+  },
+  {
+    "comment": "gui.xaero_reverse_entity_radar",
+    "translation": "Reverse Radar Render Order",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_switch_waypoint_set",
+    "translation": "Switch Waypoint Set",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_dimension",
+    "translation": "Toggle Dimension",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_entity_radar",
+    "translation": "Toggle Entity Radar",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_grid",
+    "translation": "Toggle Chunk Grid",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_light_overlay",
+    "translation": "Toggle Light Overlay",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_manual_cave_mode",
+    "translation": "Toggle Manual Cave Mode",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_map",
+    "translation": "Toggle Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_map_waypoints",
+    "translation": "Toggle On-Map Waypoints",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_pac_chunk_claims",
+    "translation": "Toggle Chunk Claims",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_slime",
+    "translation": "Toggle Slime Chunks",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_tracked_players_in_world",
+    "translation": "Toggle Tracked Players In World",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_tracked_players_on_map",
+    "translation": "Toggle Tracked Players On Map",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_waypoints",
+    "translation": "Toggle In-World Waypoints",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_waypoints_key",
+    "translation": "Open Waypoint Screen",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "gui.xaero_zoom_in",
+    "translation": "Zoom In Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_zoom_out",
+    "translation": "Zoom Out Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "iris.keybind.reload",
+    "translation": "Reload Shaders",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "iris.keybind.shaderPackSelection",
+    "translation": "Shaderpack Selection Screen",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "iris.keybind.toggleShaders",
+    "translation": "Toggle Shaders",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "iris.keybind.wireframe",
+    "translation": "Wireframe (SP only)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advancements",
+    "translation": "Advancements",
+    "key": "key.keyboard.l"
+  },
+  {
+    "comment": "key.ae2.ae2wtlib_magnet",
+    "translation": "Toggle Magnet Card",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.ae2wtlib_restock",
+    "translation": "Toggle Restock",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.guide",
+    "translation": "Open Guide for Items",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.ae2.portable_fluid_cell",
+    "translation": "Open Portable Fluid Cell",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.portable_item_cell",
+    "translation": "Open Portable Item Cell",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_pattern_access_terminal",
+    "translation": "Open Wireless Pattern Access Terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_pattern_encoding_terminal",
+    "translation": "Open Wireless Pattern Encoding Terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_terminal",
+    "translation": "Open Wireless Terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.aether.gravitite_jump_ability.desc",
+    "translation": "Activate Gravitite Jump",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.aether.invisibility_toggle.desc",
+    "translation": "Toggle Invisibility",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.aether.open_accessories.desc",
+    "translation": "Open/Close Accessories Inventory",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.attack",
+    "translation": "Attack/Destroy",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.back",
+    "translation": "Walk Backwards",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.boththrow.desc",
+    "translation": "Throw Hook(s)",
+    "key": "key.mouse.right"
+  },
+  {
+    "comment": "key.bren.reload",
+    "translation": "Reload Gun",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.carry.desc",
+    "translation": "Carry",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.chat",
+    "translation": "Open Chat",
+    "key": "key.keyboard.t"
+  },
+  {
+    "comment": "key.climb.desc",
+    "translation": "Climb",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.climbdown.desc",
+    "translation": "Climb down",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.climbup.desc",
+    "translation": "Climb up",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.command",
+    "translation": "Open Command",
+    "key": "key.keyboard.slash"
+  },
+  {
+    "comment": "key.createbigcannons.fire_controlled_cannon",
+    "translation": "Fire Controlled Cannon",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.createbigcannons.pitch_mode",
+    "translation": "Change Carriage Mode",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.cycleLeft",
+    "translation": "Cycle Hotbar Slot Left",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.cycleRight",
+    "translation": "Cycle Hotbar Slot Right",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.open_config",
+    "translation": "Open Config",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.pitch_down",
+    "translation": "Pitch Down",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.pitch_up",
+    "translation": "Pitch Up",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.roll_left",
+    "translation": "Roll Left",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.roll_right",
+    "translation": "Roll Right",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.thrust_backward",
+    "translation": "Thrust Backward",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.thrust_forward",
+    "translation": "Thrust Forward",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.toggle_enabled",
+    "translation": "Toggle Enabled",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.toggle_thrust",
+    "translation": "Toggle Thrusting",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.yaw_left",
+    "translation": "Yaw Left",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.do_a_barrel_roll.yaw_right",
+    "translation": "Yaw Right",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.drop",
+    "translation": "Drop Selected Item",
+    "key": "key.keyboard.q"
+  },
+  {
+    "comment": "key.enderlaunch.desc",
+    "translation": "Hook Ender Staff Launch",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.extraalchemy.magnetism_toggle",
+    "translation": "Toggle Potion of Magnetism",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.extraalchemy.potion_bag_mode",
+    "translation": "Toggle Potion Bag auto-selection",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "key.extraalchemy.toggle_extra_inv_rings",
+    "translation": "Toggle rings equipped Bauble-like inventories",
+    "key": "key.keyboard.y"
+  },
+  {
+    "comment": "key.forward",
+    "translation": "Walk Forwards",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.fullscreen",
+    "translation": "Toggle Fullscreen",
+    "key": "key.keyboard.f11"
+  },
+  {
+    "comment": "key.hexical.evoke",
+    "translation": "Evoke",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.hexical.open_hexbook",
+    "translation": "Open Hex Notebook",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.hexical.telepathy",
+    "translation": "Call Telepathy",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.hotbar.1",
+    "translation": "Hotbar Slot 1",
+    "key": "key.keyboard.1"
+  },
+  {
+    "comment": "key.hotbar.2",
+    "translation": "Hotbar Slot 2",
+    "key": "key.keyboard.2"
+  },
+  {
+    "comment": "key.hotbar.3",
+    "translation": "Hotbar Slot 3",
+    "key": "key.keyboard.3"
+  },
+  {
+    "comment": "key.hotbar.4",
+    "translation": "Hotbar Slot 4",
+    "key": "key.keyboard.4"
+  },
+  {
+    "comment": "key.hotbar.5",
+    "translation": "Hotbar Slot 5",
+    "key": "key.keyboard.5"
+  },
+  {
+    "comment": "key.hotbar.6",
+    "translation": "Hotbar Slot 6",
+    "key": "key.keyboard.6"
+  },
+  {
+    "comment": "key.hotbar.7",
+    "translation": "Hotbar Slot 7",
+    "key": "key.keyboard.7"
+  },
+  {
+    "comment": "key.hotbar.8",
+    "translation": "Hotbar Slot 8",
+    "key": "key.keyboard.8"
+  },
+  {
+    "comment": "key.hotbar.9",
+    "translation": "Hotbar Slot 9",
+    "key": "key.keyboard.9"
+  },
+  {
+    "comment": "key.inventory",
+    "translation": "Open/Close Inventory",
+    "key": "key.keyboard.e"
+  },
+  {
+    "comment": "key.jade.config",
+    "translation": "Open Config",
+    "key": "key.keyboard.keypad.0"
+  },
+  {
+    "comment": "key.jade.narrate",
+    "translation": "Narrate",
+    "key": "key.keyboard.keypad.5"
+  },
+  {
+    "comment": "key.jade.show_details_alternative",
+    "translation": "Show Details (Alternative)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.jade.show_overlay",
+    "translation": "Show Overlay",
+    "key": "key.keyboard.keypad.1"
+  },
+  {
+    "comment": "key.jade.toggle_liquid",
+    "translation": "Toggle Fluid",
+    "key": "key.keyboard.keypad.2"
+  },
+  {
+    "comment": "key.jetpack.toggle_active.description",
+    "translation": "Toggle Jetpack Engine",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.jetpack.toggle_hover.description",
+    "translation": "Toggle Hover Mode",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.jump",
+    "translation": "Jump",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.jumpanddetach.desc",
+    "translation": "Jump and Detach",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.left",
+    "translation": "Strafe Left",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.leftthrow.desc",
+    "translation": "Throw Left Hook",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.loadToolbarActivator",
+    "translation": "Load Hotbar Activator",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.modmenu.open_menu",
+    "translation": "Open Mod Menu",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.motoronoff.desc",
+    "translation": "Motor On/Off",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.open_muffler_gui",
+    "translation": "Open sound muffler screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.pickItem",
+    "translation": "Pick Block",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "key.playerlist",
+    "translation": "List Players",
+    "key": "key.keyboard.tab"
+  },
+  {
+    "comment": "key.right",
+    "translation": "Strafe Right",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.rightthrow.desc",
+    "translation": "Throw Right Hook",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.rocket.desc",
+    "translation": "Rocket",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.saveToolbarActivator",
+    "translation": "Save Hotbar Activator",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.screenshot",
+    "translation": "Take Screenshot",
+    "key": "key.keyboard.f2"
+  },
+  {
+    "comment": "key.slide.desc",
+    "translation": "Slide",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.slow.desc",
+    "translation": "Slow down / Stop swinging",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.smoothCamera",
+    "translation": "Toggle Cinematic Camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sneak",
+    "translation": "Sneak",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.socialInteractions",
+    "translation": "Social Interactions Screen",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.spectatorOutlines",
+    "translation": "Highlight Players (Spectators)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sprint",
+    "translation": "Sprint",
+    "key": "key.keyboard.left.control"
+  },
+  {
+    "comment": "key.swapOffhand",
+    "translation": "Swap Item With Offhand",
+    "key": "key.keyboard.f"
+  },
+  {
+    "comment": "key.things.openenderchest",
+    "translation": "Open Ender Pouch",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.things.place_item",
+    "translation": "Place Item in World",
+    "key": "key.keyboard.j"
+  },
+  {
+    "comment": "key.things.toggle_socks_jump_boost",
+    "translation": "Toggle Socks Jump Boost",
+    "key": "key.keyboard.caps.lock"
+  },
+  {
+    "comment": "key.toggleCarriedItemTooltips",
+    "translation": "Toggle Carried Item Tooltips",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.togglePerspective",
+    "translation": "Toggle Perspective",
+    "key": "key.keyboard.f5"
+  },
+  {
+    "comment": "key.toggleSelectedItemTooltips",
+    "translation": "Toggle Selected Item Tooltips",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.toggleVisualItemContents",
+    "translation": "Toggle Visual Item Contents",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.use",
+    "translation": "Use Item/Place Block",
+    "key": "key.mouse.right"
+  },
+  {
+    "comment": "keybindings.spell_engine.bypass_spell_hotbar",
+    "translation": "Bypass Spell Hotbar",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_1",
+    "translation": "Spell Hotbar Slot 1",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_2",
+    "translation": "Spell Hotbar Slot 2",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_3",
+    "translation": "Spell Hotbar Slot 3",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_4",
+    "translation": "Spell Hotbar Slot 4",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_5",
+    "translation": "Spell Hotbar Slot 5",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_6",
+    "translation": "Spell Hotbar Slot 6",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_7",
+    "translation": "Spell Hotbar Slot 7",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_8",
+    "translation": "Spell Hotbar Slot 8",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybindings.spell_engine.spell_hotbar_9",
+    "translation": "Spell Hotbar Slot 9",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybinds.bettercombat.feint",
+    "translation": "Feint",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybinds.bettercombat.toggle_mine_with_weapons",
+    "translation": "Toggle Mine with weapons",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keys.armourers_workshop.open-wardrobe",
+    "translation": "Open Wardrobe",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "keys.armourers_workshop.undo",
+    "translation": "Undo",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "keys.lapisworks.use_casting_ring",
+    "translation": "Use Casting Ring",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "supplementaries.keybind.quiver",
+    "translation": "Quiver",
+    "key": "key.keyboard.v"
+  }
+]

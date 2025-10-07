@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "582faf40d873e4261d0a0b9b4cf3986ec65aedba037a9a8805a661e11a351645"
 
 [[files]]
+file = "config/default-hotkeys.json"
+hash = "212f1b9a79df5f5401e5a2b4c1c5cd3563598ce65c81f950b1bc38f6e0c4ab4e"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
@@ -102,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
-metafile = true
-
-[[files]]
-file = "mods/bren.pw.toml"
-hash = "b10487ff11973ec625cd1f968ab59f0927a762694a0b5ff52c695b6a7096c5b2"
 metafile = true
 
 [[files]]
