@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "shaders"
+description = "Allows for shaders"
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar"
