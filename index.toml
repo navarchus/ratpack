@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+hash = "83218ab57afe30a83754590651ff0656ad3e158d0d7e9e423c3cf7ac6b68f067"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "f0ed08750785b8abf3a524de50422e24fd0f795f2f6db2e8a047fa4d47cd3f5b"
+hash = "acad2a12b636b0ca49683143e75db1e9c27ab8601f2f7aab720c962749e1935b"
 metafile = true
 
 [[files]]
