@@ -2,7 +2,7 @@
   {
     "comment": "accessories.key.open_accessories_screen",
     "translation": "Open Accessories Screen",
-    "key": "key.keyboard.h"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "create.keyinfo.ponder",
@@ -32,7 +32,7 @@
   {
     "comment": "figura.config.popup_button",
     "translation": "Popup Menu",
-    "key": "key.keyboard.r"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "figura.config.reload_button",
@@ -62,7 +62,7 @@
   {
     "comment": "gui.xaero_instant_waypoint",
     "translation": "Quick Waypoint",
-    "key": "key.keyboard.keypad.add"
+    "key": "key.keyboard.keypad.unknown"
   },
   {
     "comment": "gui.xaero_map_zoom_in",
@@ -177,27 +177,27 @@
   {
     "comment": "gui.xaero_zoom_in",
     "translation": "Zoom In Minimap",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.add"
   },
   {
     "comment": "gui.xaero_zoom_out",
     "translation": "Zoom Out Minimap",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.minus"
   },
   {
     "comment": "iris.keybind.reload",
     "translation": "Reload Shaders",
-    "key": "key.keyboard.r"
+    "key": "key.keyboard.backslash"
   },
   {
     "comment": "iris.keybind.shaderPackSelection",
     "translation": "Shaderpack Selection Screen",
-    "key": "key.keyboard.o"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "iris.keybind.toggleShaders",
     "translation": "Toggle Shaders",
-    "key": "key.keyboard.k"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "iris.keybind.wireframe",
@@ -222,7 +222,7 @@
   {
     "comment": "key.ae2.guide",
     "translation": "Open Guide for Items",
-    "key": "key.keyboard.g"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.ae2.portable_fluid_cell",
@@ -280,11 +280,6 @@
     "key": "key.mouse.right"
   },
   {
-    "comment": "key.bren.reload",
-    "translation": "Reload Gun",
-    "key": "key.keyboard.r"
-  },
-  {
     "comment": "key.carry.desc",
     "translation": "Carry",
     "key": "key.keyboard.unknown"
@@ -327,12 +322,12 @@
   {
     "comment": "key.cycleLeft",
     "translation": "Cycle Hotbar Slot Left",
-    "key": "key.keyboard.g"
+    "key": "key.keyboard.left.bracket"
   },
   {
     "comment": "key.cycleRight",
     "translation": "Cycle Hotbar Slot Right",
-    "key": "key.keyboard.h"
+    "key": "key.keyboard.right.bracket"
   },
   {
     "comment": "key.do_a_barrel_roll.open_config",
@@ -622,7 +617,7 @@
   {
     "comment": "key.socialInteractions",
     "translation": "Social Interactions Screen",
-    "key": "key.keyboard.p"
+    "key": "key.keyboard.semicolon"
   },
   {
     "comment": "key.spectatorOutlines",
@@ -642,7 +637,7 @@
   {
     "comment": "key.things.openenderchest",
     "translation": "Open Ender Pouch",
-    "key": "key.keyboard.g"
+    "key": "key.keyboard.comma"
   },
   {
     "comment": "key.things.place_item",
@@ -757,6 +752,6 @@
   {
     "comment": "supplementaries.keybind.quiver",
     "translation": "Quiver",
-    "key": "key.keyboard.v"
+    "key": "key.keyboard.unknown"
   }
 ]
