@@ -9,6 +9,34 @@ file = "config/default-hotkeys.json"
 hash = "0e9388a71bd064280db873489c33c8cd0eb2b24dae4d1faf0504ace5fd4ca00e"
 
 [[files]]
+file = "config/figura.json"
+hash = "ee99754e73cec211bef8aaf58742475d8badc46175529de63a5a49d7af93a22b"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "cd608d0299ecf59725823ee39d865e2a0045b4e41fe2311bf97c6be76cc0ce4a"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
