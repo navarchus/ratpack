@@ -6,7 +6,7 @@ hash = "582faf40d873e4261d0a0b9b4cf3986ec65aedba037a9a8805a661e11a351645"
 
 [[files]]
 file = "config/default-hotkeys.json"
-hash = "0e9388a71bd064280db873489c33c8cd0eb2b24dae4d1faf0504ace5fd4ca00e"
+hash = "faac35deac4cd483fc7976afe0bb8552575c0f2b0fef0a8723e9bf5210a67fd6"
 
 [[files]]
 file = "config/figura.json"

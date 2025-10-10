@@ -287,7 +287,7 @@
   {
     "comment": "key.aether.open_accessories.desc",
     "translation": "Open/Close Accessories Inventory",
-    "key": "key.keyboard.i"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.attack",
@@ -645,6 +645,11 @@
     "key": "key.keyboard.semicolon"
   },
   {
+    "comment": "key.sort_it_out.sort",
+    "translation": "Sort Hovered Inventory",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "key.spectatorOutlines",
     "translation": "Highlight Players (Spectators)",
     "key": "key.keyboard.unknown"
@@ -698,6 +703,31 @@
     "comment": "key.toms_storage.open_terminal",
     "translation": "[Tom\u0027s Simple Storage] Open Terminal",
     "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.travelersbackpack.ability",
+    "translation": "Enable/Disable Special Ability",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.travelersbackpack.cycle_tool",
+    "translation": "Swap Tool/Change Hose Mode",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "key.travelersbackpack.inventory",
+    "translation": "Open Backpack",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.travelersbackpack.sort",
+    "translation": "Sort Backpack",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.travelersbackpack.toggle_tank",
+    "translation": "Toggle Hose Tank",
+    "key": "key.keyboard.n"
   },
   {
     "comment": "key.use",
