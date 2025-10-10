@@ -500,6 +500,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "a51d746fdd98949eb47b83a9da95a1121fd7163601e901d986e57b1d2aca7950"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
 metafile = true
@@ -748,6 +753,11 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "746b6381823e3c7c2e78771a59a80872cce2ef1b1e101f323793db22635490d1"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
@@ -815,6 +825,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "179b326687b34c0dde9370aedc47a7cdf5115483c2287df73c96b5380e31148e"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "bb51873eb3089f800475669db6f8b965a9ac42917b5c8a866e9b3e15b6e735be"
 metafile = true
 
 [[files]]
